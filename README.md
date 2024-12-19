@@ -32,7 +32,7 @@ You should download this package.<br>
 
 1. Clone [this repository] inside the src directory.
 
-2. Install required package.
+2. Install requirements.
 
 3. Feel free to use!
 
