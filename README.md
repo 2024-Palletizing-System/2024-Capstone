@@ -28,13 +28,13 @@ You should download this package.<br>
 
 # How to use?
 
-#### 0) Create ROS workspace in the place you want.
+0. Create ROS workspace in the place you want.
 
-#### 1) Clone [this repository] inside the src directory.
+1. Clone [this repository] inside the src directory.
 
-#### 2) Install required package.
+2. Install required package.
 
-#### 3) Feel free to use!
+3. Feel free to use!
 
 ## Reference
 
