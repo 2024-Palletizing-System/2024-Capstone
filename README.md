@@ -42,4 +42,4 @@ You should download this package.<br>
 
 ## License
 
-[APACHE2.0]()
+[APACHE2.0](https://github.com/2024-Palletizing-System/2024-Capstone/blob/97ec6a8b2618ddeaa44a3a86d2a94cd1d58d414c/LICENSE)
