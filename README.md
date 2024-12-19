@@ -14,13 +14,18 @@ This program is implemented at Ubuntu 20.04 - ROS-Noetic
 
 Our project needs the packages written below.<br>
 
-#### 1) PCL
-[https://github.com/PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)<br>
+#### 1) Doosan-Robotics noetic-devel 
+[https://github.com/doosan-robotics/doosan-robot#overview](https://github.com/doosan-robotics/doosan-robot#overview)<br>
 
+#### 2) Intel-Realsense
+[https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy](https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy)<br>
+
+#### 3) PCL
+[https://github.com/PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)<br>
 Cuda environment is **cuda 12.1+cudnn 8.9.0** <br>
 Pytorch version is **2.2.2+cu121**
 
-#### 2) Yolo v7
+#### 4) Yolo v7
 
 [https://gitlab.com/Alsrbile/2023-capstone/-/tree/main/catkin_test/src/yolov7-u7/src/seg?ref_type=heads](https://gitlab.com/Alsrbile/2023-capstone/-/tree/main/catkin_test/src/yolov7-u7?ref_type=heads)<br>
 
