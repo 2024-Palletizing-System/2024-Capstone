@@ -4,7 +4,7 @@
 ## Enviroments
 Doosan-Robotics collaborative robot m1013 <br>
 Intel-RealSense 435i<br>
-SCHUNK EGP gripper<br>
+SCHUNK EGP-64 gripper<br>
 
 ## Build
 This program is implemented at Ubuntu 20.04 - ROS-Noetic
