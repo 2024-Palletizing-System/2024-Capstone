@@ -1,6 +1,10 @@
 # 2024 Capstone
 2024.Seoultech.uni.Capstone design project 
 
+## Introduce
+
+[![Demonstration](https://img.youtube.com/vi/67THgPcDFbM/0.jpg)](https://youtu.be/67THgPcDFbM?si=j3orbEogeqPs7gPL)
+
 ## Enviroments
 Doosan-Robotics collaborative robot m1013 <br>
 Intel-RealSense 435i<br>
