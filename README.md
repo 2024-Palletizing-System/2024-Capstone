@@ -1,5 +1,4 @@
-# 2024capstone
-====
+# 2024 Capstone
 Capstone design project
 
 ## Enviroments
@@ -39,6 +38,14 @@ Put **"predict_ui.py"** in the etc folder to this path **"/catkin_test/src/yolov
 
 1. Create ROS workspace in the place you want.
 
-2. Clone [this repository]() inside the src directory.
+2. Clone [this repository] inside the src directory.
 
 3. Install required package.
+
+## Reference
+
+* https://github.com/jerry800416/3dbinpacking
+
+## License
+
+[APACHE2.0]
