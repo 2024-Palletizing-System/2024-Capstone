@@ -30,7 +30,7 @@ You should download this package.<br>
 
 0. Create ROS workspace in the place you want.
 
-1. Clone [this repository] inside the src directory.
+1. Clone [this repository](https://github.com/2024-Palletizing-System/2024-Capstone.git) inside the src directory.
 
 2. Install requirements.
 
