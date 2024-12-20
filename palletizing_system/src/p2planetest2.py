@@ -62,7 +62,7 @@ import struct
 
 Image_publisher = rospy.Publisher('yolo_image', Image, queue_size=10)
 
-model = YOLO('/home/lee/weight/best.pt')
+model = YOLO('~/2024capstonedesign/catkin_ws/src/weight/best.pt')
 print("YOLO is on!")
 bridge = CvBridge()
 depth_image = None
